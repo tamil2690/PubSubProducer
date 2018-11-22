@@ -111,7 +111,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com.hackathon.fraud.Application</mainClass>
+                            <mainClass>com.ratheesh.Application</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
